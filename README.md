@@ -2,6 +2,8 @@
 
 **A free PDF viewer and editor for Windows.** View, edit, merge, split, compress and convert PDF files, with every document in its own tab.
 
+![PDF Editor by LogicaMatrix: tabs, editing toolbar, page thumbnails and a document](docs/screenshot.png)
+
 ## Download
 
 ### [Download PDF Editor for Windows](https://github.com/murarikiran/pdfeditor/releases/latest)
